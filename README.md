@@ -1,9 +1,9 @@
 # Linear-Regression
 Summary of the task:
-The repository contains python code used to train and build a machine learning model using simple linear regression. A small dataset was used consisting of two columns (height and weight). The data was first split into the training set and the test set; tools from the Scikit Learn Library were then used to build the main model.
+The repository contains python code used to train and build a machine learning model using simple linear regression. A DATASET is used . The data was first split into the training set and the test set; tools from the Scikit Learn Library were then used to build the main model.
 Creating a Machine Learning model to predict the real estate prices in India. We are going to use the dataset from Kaggle.com. We are also going to create a single page website which will provide the front end to access our model for predictions.
 
-Below data science concepts are used in this project
+Below data science concepts are used in this;
 
 Data loading and cleaning
 Outlier detection and removal
